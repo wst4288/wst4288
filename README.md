@@ -25,26 +25,19 @@
 
 **🪶 The Scribe · 书记官**
 
-- 💻 Daily driver: **macOS**, terminal-first
-  主力 macOS，终端优先
-- 🤖 Working alongside **AI coding agents**
-  与 AI 编程助手协作：pi · Claude Code · Codex
-- 📝 Configs are scrolls — versioned, documented, reproducible
-  配置即卷轴：版本化、有注释、可复现
+- 💻 Daily driver: **macOS**, terminal-first<br>主力 macOS，终端优先
+- 🤖 Working alongside **AI coding agents**<br>与 AI 编程助手协作：pi · Claude Code · Codex
+- 📝 Configs are scrolls — versioned, documented, reproducible<br>配置即卷轴：版本化、有注释、可复现
 
 </td>
     <td width="50%" valign="top">
 
 **🧭 The Explorer · 探索者**
 
-- 🌐 Proxy cores & clients: sing-box · mihomo · Xray
-  网络代理内核与客户端
-- 📡 Home network & OpenWrt routers
-  家庭网络与软路由
-- ⌨️ **Rime** input method & typography
-  Rime 输入法与中文字体
-- 📺 Home media: Jellyfin · Emby · IPTV
-  家庭影音
+- 🌐 Proxy cores & clients: sing-box · mihomo · Xray<br>网络代理内核与客户端
+- 📡 Home network & OpenWrt routers<br>家庭网络与软路由
+- ⌨️ **Rime** input method & typography<br>Rime 输入法与中文字体
+- 📺 Home media: Jellyfin · Emby · IPTV<br>家庭影音
 
 </td>
   </tr>
@@ -81,7 +74,7 @@
 
 ### 📜 The Library of Scrolls · 卷轴书库
 
-> A curated collection of the tools I trust, sorted like a scribe's archive.
+> A curated collection of the tools I trust, sorted like a scribe's archive.<br>
 > 我信赖的工具，按书记官的方式分卷收藏。
 
 | Scroll · 卷轴 | Contents · 收录 | Count |
