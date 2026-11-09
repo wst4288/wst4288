@@ -1,4 +1,4 @@
-### Hi there, I'm wst4288 👋
+### Hi there, I'm THOTH 👋
 
 - 💻 Mac user who enjoys tinkering with productivity tools<br>Mac 用户，喜欢折腾效率工具
 - 🤖 Exploring AI coding agents — pi, Claude Code, Codex<br>在玩 AI 编程助手：pi、Claude Code、Codex
